@@ -6,7 +6,7 @@ import random
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger('quiz_bot')
 
-bot = TeleBot('7800244410:AAGN2c3vlkYtGCy7SubxuWzHpcPGJLjRGXI')
+bot = TeleBot('Вставьте_свой_токен')
 questions = [
     {
         #"id": 1,
@@ -570,3 +570,5 @@ def restart_quiz(call):
     send_next_question(chat_id)
 
 bot.polling()
+
+# Разработано Space 108
