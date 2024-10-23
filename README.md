@@ -1,4 +1,4 @@
-<h2>Телеграм бот, который генерирует номера банковских карт</h2>
+<h2>Телеграмм бот для проведения викторины по тестированию.</h2>
 
 > **Статус проекта:**
 >
@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.githubusercontent.com/Space108/test_bot/refs/heads/master/Greeting.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://raw.githubusercontent.com/Space108/test_bot/refs/heads/master/Launch.png)
 
 
 ## 💻 Технологии
